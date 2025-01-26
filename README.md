@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - Project management
 - Client communication
 
-### Key Strengths:
+#### Key Strengths:
 
 - Recent expertise in React.js with modern technologies (shadcn/ui, Radix, Zod)
 - Experience in API integration and database management
