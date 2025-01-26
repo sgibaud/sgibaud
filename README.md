@@ -17,3 +17,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Front-end Technologies:
+
+React.js (multiple recent professional experiences)
+TypeScript / JavaScript
+HTML5 / CSS3
+Tailwind CSS
+UI Components: shadcn/ui, Radix, NextUI
+Form management with Zod
+
+Back-end & Database Technologies:
+
+Prisma (ORM)
+SQL / MariaDB
+Google Cloud
+PHP basics
+
+Frameworks & Tools:
+
+Remix
+Git / GitHub
+GitHub Actions (Continuous Deployment)
+Automated testing (Playwright)
+
+Methodologies & Soft Skills:
+
+Agile / Scrum methodology
+Team collaboration and autonomous work
+Project management
+Client communication
+
+Key Strengths:
+
+Recent expertise in React.js with modern technologies (shadcn/ui, Radix, Zod)
+Experience in API integration and database management
+Design background providing an advantage in UI/UX
+Ability to work both in team settings and independently
