@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ### Key Strengths:
 
-Recent expertise in React.js with modern technologies (shadcn/ui, Radix, Zod)
-Experience in API integration and database management
-Design background providing an advantage in UI/UX
-Ability to work both in team settings and independently
+- Recent expertise in React.js with modern technologies (shadcn/ui, Radix, Zod)
+- Experience in API integration and database management
+- Design background providing an advantage in UI/UX
+- Ability to work both in team settings and independently
