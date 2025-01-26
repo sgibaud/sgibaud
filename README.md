@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-Front-end Technologies:
+## Front-end Technologies:
 
 React.js (multiple recent professional experiences)
 TypeScript / JavaScript
