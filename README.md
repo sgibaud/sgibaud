@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 -->
 
 
-### Front-end Technologies:
+#### Front-end Technologies:
 
-React.js (multiple recent professional experiences)
-TypeScript / JavaScript /
-HTML5 / CSS3 /
-Tailwind CSS v4 /
-UI Components: shadcn/ui, Radix, NextUI /
-Form management with Zod
+- React.js (multiple recent professional experiences)
+- TypeScript / JavaScript /
+- HTML5 / CSS3 /
+- Tailwind CSS v4 /
+- UI Components: shadcn/ui, Radix, NextUI /
+- Form management with Zod
 
 ### Back-end & Database Technologies:
 
