@@ -22,32 +22,32 @@ Here are some ideas to get you started:
 #### Front-end Technologies:
 
 - React.js (multiple recent professional experiences)
-- TypeScript / JavaScript /
-- HTML5 / CSS3 /
-- Tailwind CSS v4 /
-- UI Components: shadcn/ui, Radix, NextUI /
+- TypeScript / JavaScript
+- HTML5 / CSS3
+- Tailwind CSS v4
+- UI Components: shadcn/ui, Radix, NextUI
 - Form management with Zod
 
-### Back-end & Database Technologies:
+#### Back-end & Database Technologies:
 
-Prisma (ORM)
-SQL / MariaDB
-Google Cloud
-PHP basics
+- Prisma (ORM)
+- SQL / MariaDB
+- Google Cloud
+- PHP basics
 
-### Frameworks & Tools:
+#### Frameworks & Tools:
 
-Remix
-Git / GitHub
-GitHub Actions (Continuous Deployment)
-Automated testing (Playwright)
+- Remix
+- Git / GitHub
+- GitHub Actions (Continuous Deployment)
+- Automated testing (Playwright)
 
-### Methodologies & Soft Skills:
+#### Methodologies & Soft Skills:
 
-Agile / Scrum methodology
-Team collaboration and autonomous work
-Project management
-Client communication
+- Agile / Scrum methodology
+- Team collaboration and autonomous work
+- Project management
+- Client communication
 
 ### Key Strengths:
 
